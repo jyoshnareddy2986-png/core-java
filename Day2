@@ -5,3 +5,11 @@ control statements
   3.elseif ladder                             3.dowhile                       3.return
   4.nested if
   5.switch
+
+SYNTAX:
+if condition{
+        //block of code
+        }
+else{
+   //block of code
+    }
