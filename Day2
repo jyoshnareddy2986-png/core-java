@@ -28,4 +28,10 @@ else if condition4{
 else{ 
    //block of code
    }
+4.nested if
+  if condition1{
+          if condition2{
+                   \\block of code statement2
+                     }
+                    \\block of code statement1
 
