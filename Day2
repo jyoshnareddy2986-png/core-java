@@ -1,0 +1,7 @@
+control statements
+1.conditional statements                2.looping ststements             3.jumping statements
+   1.if                                       1.for                           1.continue
+   2.ifelse                                   2.while                         2.break
+  3.elseif ladder                             3.dowhile                       3.return
+  4.nested if
+  5.switch
