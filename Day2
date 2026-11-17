@@ -34,4 +34,9 @@ else{
                    \\block of code statement2
                      }
                     \\block of code statement1
+                     }
+5.switch(condition){
+case1:
+      \\statement 1;
+       \\break;
 
