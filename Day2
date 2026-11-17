@@ -7,9 +7,25 @@ control statements
   5.switch
 
 SYNTAX:
-if condition{
+1.if condition{
         //block of code
         }
-else{
+2.else{
    //block of code
     }
+3.if condition1{
+         //block of code
+           }
+else if condition2{
+           //block of code
+            }
+else if condition3{
+           //block of code
+            }
+else if condition4{
+           //block of code
+            }
+else{ 
+   //block of code
+   }
+
